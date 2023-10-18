@@ -75,7 +75,7 @@ public class ques5 {
                 "5. Exit");
         
         int choice;
-        int maxAccounts = 100; // You can change this to the desired number of accounts.
+        int maxAccounts = 100; 
         AccountHolder[] accountHolders = new AccountHolder[maxAccounts];
         int numAccounts = 0;
 

@@ -1,4 +1,4 @@
-package in.cdac;
+package OOPS.cdac;
 
 public class Laptop {
 

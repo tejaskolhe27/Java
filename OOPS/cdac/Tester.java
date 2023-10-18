@@ -1,4 +1,4 @@
-package in.cdac;
+package OOPS.cdac;
 
 public class Tester {
     public static void main(String[] args) {
