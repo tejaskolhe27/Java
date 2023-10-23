@@ -1,3 +1,5 @@
+package ASSIGNMENT.DAY7;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -7,7 +9,7 @@ public class Student {
 	private double percentage;
 	private Set<String> skillset;
 	public Student(int rollno, String name, double percentage, Set<String> skillset) {
-		super();
+		
 		this.rollno = rollno;
 		this.name = name;
 		this.percentage = percentage;
